@@ -644,7 +644,8 @@
 * [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 * [remove.bg](https://www.remove.bg/): remove background from images
 * [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
-
+* [ZZZ Code AI](https://zzzcode.ai/): A free website that can answer any programming question or generate code.
+  
 ## Datasets
 
 * [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
